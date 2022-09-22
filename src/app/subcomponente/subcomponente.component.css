@@ -5,7 +5,7 @@ div{
   background-color: rgb(255, 251, 217);
  margin: 10px;
  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.50);
-
+ float: left;
  text-align: center;
  }
 
